@@ -1,6 +1,6 @@
 /* what couldnt be adjusted in bootstrap ive done here in my own CSS page Eureka! 🤓 */
 body {
-    background-image: url(/img/jake-the-dog.jpg);
+    background-image: url(img/jake-the-dog.jpg);
     background-size: cover;
 }
 
