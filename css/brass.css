@@ -1,0 +1,12 @@
+body{
+    background-image: url(/imgD/background.webp);
+    background-size: cover;
+}
+.card-group{
+    margin-top: 10px;
+    margin-left: 2px;
+    gap: 10px;
+    text-align: center;
+}
+
+

@@ -1,0 +1,9 @@
+body{
+    background-image: url(/imgD/background.webp);
+    background-size: cover;
+}
+.card-group{
+    padding-top: 130px;
+    gap: 10px;
+    text-align: center;
+}

@@ -1,0 +1,1 @@
+fetchGenres('https://mbo-sd.nl/period3-fetch/music-genre-hiphop');

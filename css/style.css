@@ -1,0 +1,10 @@
+.bg-tk{
+    background-image: url(/imgD/background.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-group{
+    padding-top: 130px;
+    gap: 10px;
+    text-align: center;
+}

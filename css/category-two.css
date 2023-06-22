@@ -1,0 +1,23 @@
+/* what couldnt be adjusted in bootstrap ive done here in my own CSS page Eureka! 🤓 */
+body {
+    background-image: url(/img/jake-the-dog.jpg);
+    background-size: cover;
+}
+
+.bi-house {
+    padding-left: 2rem;
+}
+
+
+.hip-hop {
+    height: 300px;
+}
+
+
+.rock {
+    height: 300px;
+}
+
+.pop {
+    height: 300px;
+}
